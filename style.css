@@ -427,6 +427,7 @@ h1, h2, h3{
 	height: 10vh;
     background-color: #ddd;
 	padding-top: 5rem;
+	padding-bottom: 10rem;
 }
 
 .our-portfolio h2{
@@ -1588,6 +1589,7 @@ button:hover {
 		width: 22% !important;
 	}
 }
+
 
 
 
