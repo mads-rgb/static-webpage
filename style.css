@@ -436,10 +436,11 @@ h1, h2, h3{
 	font-weight: 700;
 }
 
-/*
 .our-portfolio h3{
 	float: right;
 }
+/*
+
 */
 
 .portfolio-item{
@@ -1589,8 +1590,6 @@ button:hover {
 		width: 22% !important;
 	}
 }
-
-
 
 
 
