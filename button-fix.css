@@ -1,0 +1,25 @@
+/* Add these styles to the mobile media query (@media max-width: 500px) */
+
+.btn-reverse {
+	width: 90% !important;
+	max-width: 300px !important;
+	display: block !important;
+	margin: 1rem auto !important;
+	text-align: center !important;
+}
+
+.btn-secondary {
+	width: 80% !important;
+	max-width: 200px !important;
+	display: block !important;
+	margin: 1rem auto !important;
+	text-align: center !important;
+}
+
+.btn-primary {
+	width: auto !important;
+	max-width: 250px !important;
+	display: block !important;
+	margin: 1rem auto !important;
+	text-align: center !important;
+}
